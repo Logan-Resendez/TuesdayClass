@@ -3,7 +3,7 @@
 const config = {
   title: '107T Research Series',
   tagline: 'Papers on issues of interest to Isla Vista residents',
-  favicon: 'img/zombie.svg',
+  favicon: 'img/palm.svg',
 
   future: {},
 
@@ -50,7 +50,7 @@ const config = {
         title: '107T White Paper Series',
         logo: {
           alt: 'Series mark',
-          src: 'img/zombie.svg',
+          src: 'img/palm.svg',
         },
         items: [
           {
